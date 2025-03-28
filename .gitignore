@@ -1,0 +1,9 @@
+# Dépendances
+node_modules/
+
+# Tests
+coverage/
+database_test.sqlite
+
+# IDE
+.idea/
